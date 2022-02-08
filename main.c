@@ -122,7 +122,5 @@ void main() {
      init_timer();
      Init_adc();
      init_PWM2();
-
-
-                  for(;;);
+     while(1);
 }
